@@ -17,10 +17,10 @@ if __name__ == "__main__":
     # Part 1
     part1 = "Unknown"
 
-    print("Part 1: " + str(part1))
+    print("Part 1:", part1)
 
 
     # Part 2
     part2 = "Unknown"
 
-    print("Part 2: " + str(part2))
+    print("Part 2:", part2)
